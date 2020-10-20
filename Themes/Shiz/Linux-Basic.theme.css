@@ -2,9 +2,14 @@
  * @name Linux-Basic
  * @author Shiz
  * @version ersion auto updates
- * @description Linux Basic theme created by Shiz using NFLD99's template.    |   Github: https://git.io/v7ovg    |   Support Server: https://nfld99.com/discord    |   Website: https://www.nfld99.com
+ * @description Linux Basic theme created by Shiz using NFLD99's template.    |   Github: https://git.io/v7ovg
  * @source https://nfld99.com/shiz.html
  * @website https://nfld99.com/
+ * @patreon https://nfld99.com/patreon
+ * @authorLink https://discordhub.com/profile/483413721876529174
+ * @donate https://nfld99.com/paypal
+ * @authorId 483413721876529174
+ * @invite 9ArHYa9
 */
 
 /* Sorce Code */
@@ -62,7 +67,7 @@
   --Popout-Background:  url(https://i.imgur.com/l4B44NA.png);
   --Popout-Text-Shadow-Colour:var(--Text-Shadow-Colour);
   --Emote-Popout-Background:  url(https://i.imgur.com/l4B44NA.png);
-  --File-Updated-2019-9-15: ;
+  --File-Updated-2020-5-24: ;
   --Settings-Dock-Colour: var(--Main-Colour);
   --Timestamp-Colour: var(--Secondary-Main-Colour);
   --Guild-Columns: 1;
@@ -105,12 +110,12 @@
 .theme-dark .scrollbar-3dvm_9 {
   background-color: rgba(9, 163, 252, 0.24) !important;
  }
-/* Removing Nitro Gift*/
-.button-38aScr[tabindex="3"]{
+/*Removing Nitro gift button*/
+.button-3AYNKb{
   display: none;
 }
-.theme-dark .dividerEnabled-2TTlcf{
-    display: none;
+.groupStart-23k01U {
+    box-shadow: none;
 }
 .theme-dark .nameTag-m8r81H, .name-1ug6d4{
   color: rgb(45, 124, 241) !important;

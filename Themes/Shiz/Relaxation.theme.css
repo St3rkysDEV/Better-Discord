@@ -1,10 +1,15 @@
 /**
  * @name Relaxation
- * @description Support Server: https://nfld99.com/discord
  * @author Shiz 
  * @version ersion auto updates
+ * @description Relaxation theme by Shiz based on NFLD99's template    |   Github: https://git.io/v7ovg
  * @source https://nfld99.com/shiz.html
  * @website https://nfld99.com/
+ * @patreon https://nfld99.com/patreon
+ * @authorLink https://discordhub.com/profile/483413721876529174
+ * @donate https://nfld99.com/paypal
+ * @authorId 483413721876529174
+ * @invite 9ArHYa9
 */
 
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Master_Code.css);
@@ -48,7 +53,7 @@
 	--Emote-Popout-Background: url(https://i.imgur.com/xx2L8bN.jpg);
 	--Theme-Variant: "Relaxation";
 	--Chat-Font-Used: 'Doppio One', sans-serif;
-	--File-Updated-2019-9-15: ;
+	--File-Updated-2020-5-24: ;
 	--Guild-Columns: 1;
 	--ServerFolders-Guild-Columns: 1;
 	--Unread-Message-Speed: 1.5s;
@@ -56,8 +61,8 @@
 	--Chat-Avatar-Border-Radius: 3px;
 	--Background-Darkness: 0.1
 }
-.theme-dark .dividerEnabled-2TTlcf{
-    display: none;
+.groupStart-23k01U {
+    box-shadow: none;
 }
 /* Change Avatar Size(also moves username for you) */
 .containerCozyBounded-1rKFAn .avatar-17mtNa .wrapper-3t9DeA {

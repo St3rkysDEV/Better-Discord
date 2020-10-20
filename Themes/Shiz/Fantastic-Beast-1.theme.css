@@ -2,9 +2,14 @@
  * @name Fantastic-Beast-1
  * @author Shiz
  * @version ersion auto updates
- * @description Fantastic Beast theme created by Shiz using NFLD99's template.    |   Github: https://git.io/v7ovg    |   Support Server: https://nfld99.com/discord    |   Website: https://www.nfld99.com
+ * @description Fantastic Beast theme created by Shiz using NFLD99's template.    |   Github: https://git.io/v7ovg
  * @source https://nfld99.com/shiz.html
  * @website https://nfld99.com/
+ * @patreon https://nfld99.com/patreon
+ * @authorLink https://discordhub.com/profile/483413721876529174
+ * @donate https://nfld99.com/paypal
+ * @authorId 483413721876529174
+ * @invite 9ArHYa9
 */
 
 /* Sorce Code */
@@ -62,7 +67,7 @@
   --Popout-Background:  url(https://i.imgur.com/VDdfCbm.jpg);
   --Popout-Text-Shadow-Colour:var(--Text-Shadow-Colour);
   --Emote-Popout-Background:  url(https://i.imgur.com/VDdfCbm.jpg);
-  --File-Updated-2019-9-15: ;
+  --File-Updated-2020-5-24: ;
   --Settings-Dock-Colour: var(--Main-Colour);
   --Timestamp-Colour: var(--Secondary-Main-Colour);
   --Guild-Columns: 1;
@@ -87,8 +92,8 @@
 /* Removing the bottom border in member list*/
 .member-3W1lQa {border-bottom: none;
 }
-.theme-dark .dividerEnabled-2TTlcf{
-    display: none;
+.groupStart-23k01U {
+    box-shadow: none;
 }
 
 /* disabling margin between messages */
@@ -105,8 +110,8 @@
 .homeIcon-tEMBK1 > path{
   fill: transparent!important;
 }
-/* Removing Nitro Gift*/
-.button-38aScr[tabindex="3"]{
+/*Removing Nitro gift button*/
+.button-3AYNKb{
   display: none;
 }
 .theme-dark .scrollbar-3dvm_9 {

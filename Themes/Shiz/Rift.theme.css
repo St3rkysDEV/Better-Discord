@@ -2,9 +2,14 @@
  * @name Rift
  * @author Shiz
  * @version ersion auto updates
- * @description Rift theme created by Shiz using NFLD99's template.    |   Github: https://git.io/v7ovg    |   Support Server: https://nfld99.com/discord    |   Website: https://www.nfld99.com
+ * @description Rift theme created by Shiz using NFLD99's template.    |   Github: https://git.io/v7ovg
  * @source https://nfld99.com/shiz.html
  * @website https://nfld99.com/
+ * @patreon https://nfld99.com/patreon
+ * @authorLink https://discordhub.com/profile/483413721876529174
+ * @donate https://nfld99.com/paypal
+ * @authorId 483413721876529174
+ * @invite 9ArHYa9
 */
 
 /* Sorce Code */
@@ -62,7 +67,7 @@
   --Popout-Background: url(https://i.imgur.com/ycQnr7N.jpg);
   --Popout-Text-Shadow-Colour:var(--Text-Shadow-Colour);
   --Emote-Popout-Background: url(https://i.imgur.com/1kGciog.jpg);
-  --File-Updated-2019-9-15: ;
+  --File-Updated-2020-5-24: ;
   --Settings-Dock-Colour: var(--Main-Colour);
   --Timestamp-Colour: rgba(175, 94, 241, 0.986);
   --Guild-Columns: 2;
@@ -84,8 +89,8 @@
   width: 35px!important;
   height: 35px!important;
 }
-/* Removing Nitro Gift*/
-.button-38aScr[tabindex="3"]{
+/*Removing Nitro gift button*/
+.button-3AYNKb{
   display: none;
 }
 /* Change Home Icon (uses base64 encoding) */
@@ -105,8 +110,8 @@
   margin-bottom: 5px;
   transition: all 200ms;
 }
-.theme-dark .dividerEnabled-2TTlcf{
-    display: none;
+.groupStart-23k01U {
+    box-shadow: none;
 }
 
 /* disabling margin between messages */

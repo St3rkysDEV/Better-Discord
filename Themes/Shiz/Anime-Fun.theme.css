@@ -2,9 +2,14 @@
  * @name Anime_Fun
  * @author Shiz
  * @version ersion auto updates
- * @description Anime_Fun theme created by Shiz using NFLD99's template.    |   Github: https://git.io/v7ovg    |   Support Server: https://nfld99.com/discord    |   Website: https://www.nfld99.com
+ * @description Anime_Fun theme created by Shiz using NFLD99's template.    |   Github: https://git.io/v7ovg
  * @source https://nfld99.com/shiz.html
  * @website https://nfld99.com/
+ * @patreon https://nfld99.com/patreon
+ * @authorLink https://discordhub.com/profile/483413721876529174
+ * @donate https://nfld99.com/paypal
+ * @authorId 483413721876529174
+ * @invite 9ArHYa9
 */
 
 /* Sorce Code */
@@ -55,14 +60,14 @@
   --Callout-Background: url(https://i.imgur.com/QVnGDlG.jpg); 
   --Title-Background: Transpanrent; 
   --Theme-Variant:"Anime_Fun"; 
-  --Chat-Font-Used: ; 
+  --Chat-Font-Used: "Whitney"; 
   --Chat-Font-Size: 25pxpx; 
   --Unread-Message-Speed: 1.5s; 
   --Popout-Main-Colour: rgba(255, 102, 102,1); 
   --Popout-Background: url(https://i.imgur.com/iKywsWD.jpg); 
   --Popout-Text-Shadow-Colour: rgba(102, 102, 255,.45); 
   --Emote-Popout-Background: url(https://i.imgur.com/iKywsWD.jpg);
-  --File-Updated-2019-9-15: ;
+  --File-Updated-2020-5-24: ;
   --Settings-Dock-Colour: rgba(102, 255, 102,1); 
   --Timestamp-Colour: rgba(102, 255, 102,.5); 
   --Background-Darkness: .5; 
@@ -97,15 +102,15 @@
  /* Removing the bottom border in member list*/
 .member-3W1lQa {border-bottom: none;
 }
-.theme-dark .dividerEnabled-2TTlcf{
-    display: none;
+.groupStart-23k01U {
+    box-shadow: none;
 }
 
 /* disabling margin between messages */
 .message-1PNnaP {
     margin-bottom: 0em;
 }
-/* Removing Nitro Gift*/
-.button-38aScr[tabindex="3"]{
+/*Removing Nitro gift button*/
+.button-3AYNKb{
   display: none;
 }
